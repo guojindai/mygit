@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guojindai/mygit/issues"
   },
-  "homepage": "https://github.com/guojindai/mygit#readme"
+  "homepage": "https://github.com/guojindai/mygit#readme",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
 }
