@@ -1,0 +1,19 @@
+{
+  "name": "mygit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guojindai/mygit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guojindai/mygit/issues"
+  },
+  "homepage": "https://github.com/guojindai/mygit#readme"
+}
